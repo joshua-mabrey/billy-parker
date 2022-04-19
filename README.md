@@ -1,4 +1,4 @@
-## Hey 👋, I'm Clarence Tinnin  
+## Hey 👋, I'm Calvin Nielsen  
   
 
 
@@ -17,10 +17,10 @@ I'm a strong advocate of thorough TDD using Rspec and Capybara.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01a8615732b45ac538)  
+- 🔭 I’m currently working on Upwork
   
 
-- 🌱 I have been working with React, Ruby on Rails and PostgreSQL.  
+- 🌱 I have been working with Ruby on Rails, React and PostgreSQL.  
   
 
 - ❓ Ask me about anything related to React/Rails stack and related technologies  
@@ -40,8 +40,8 @@ I'm a strong advocate of thorough TDD using Rspec and Capybara.
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -62,11 +62,11 @@ I'm a strong advocate of thorough TDD using Rspec and Capybara.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=clarence-rails&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=calvin-rails&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarence-rails&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-rails&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
