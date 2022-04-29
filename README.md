@@ -1,4 +1,4 @@
-## Hey 👋, I'm Calvin Nielsen  
+## Hey 👋, I'm Clarence Tinnin  
   
 
 
@@ -62,11 +62,11 @@ I'm a strong advocate of thorough TDD using Rspec and Capybara.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=calvin-rails&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=clarence-tinnin&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-rails&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarence-tinnin&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
